@@ -1,7 +1,7 @@
 <?php
 $mydbhost		="localhost";		//配置主机
-$mydbuser		="root";			//数据库用户
-$mydbpw			="";				//数据库密码
+$mydbuser		="wangbin";			//数据库用户
+$mydbpw			="123456";				//数据库密码
 $mydbname		="CMS";		//数据库名称
 $mydbcharset	="GBK";
 
